@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="2" title="New Page" alias="article" path="/home" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-top: 13px;margin-bottom: 13px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #101B23; background: #FFFFFF url('images/template-content/9bba6.png') no-repeat scroll; padding: 0px; width:100%" >
+        <br style="line-height: 390px">
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:25%" >
+        <div class="g1">
+        <p><img width="64" height="64" alt="" src="images/template-content/port.png" style="float:left;margin-right:10px;" class=""></p>
+        <h4>Portfolio</h4>
+        <p>Etiam pharetra, tellus sit amet congue vulputate.</p>
+        <p style="text-align: center;"><a href="#" class="art-button">More</a></p>
+        </div>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <div class="g2">
+        <p><img width="64" height="64" alt="" src="images/template-content/time-3.png" style="float:left;margin-right:10px;"></p>
+        <h4>Timing</h4>
+        <p>Aenean sollicitudin arcu pellentesque ac felis.</p>
+        <p style="text-align: center;"><a href="#" class="art-button">More</a></p>
+        </div>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <div class="g3">
+        <p><img width="64" height="64" alt="" src="images/template-content/chart.png" style="float:left;margin-right:10px;" class=""></p>
+        <h4>Investments</h4>
+        <p>Cras elit nisl rhoncus nec rhoncus ultricies.</p>
+        <p style="text-align: center;"><a href="#" class="art-button">More</a></p>
+        </div>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <div class="g4">
+        <p><img width="64" height="64" alt="" src="images/template-content/dir.png" style="float:left;margin-right:10px;"></p>
+        <h4>Directory</h4>
+        <p>Phasellus elit dolor, porttitor consectetur sit.</p>
+        <p style="text-align: center;"><a href="#" class="art-button">More</a></p>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding: 10px; width:38%" >
+        <h1>Team of Experts</h1>
+        <p><img width="300" height="106" alt="" src="images/template-content/targetter_1.jpg" class=""></p>
+        <p>Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu. Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat consectetur sit iaculis nibh.</p>
+        <p><a href="#" class="art-button">More</a></p>
+    </div><div class="art-layout-cell" style="padding: 10px; width:29%" >
+        <h1>Provided Services</h1>
+        <ul>
+        <li>Lorem ipsum dolor sit amet</li>
+        <li>Consectetur adipiscing elit</li>
+        <li>Etiam pharetra tellus sit</li>
+        <li>Amet congue vulputate</li>
+        <li>Nisi erat iaculis cras elit nisl</li>
+        <li>Rhoncus nec iaculis ultricies</li>
+        <li>Pellentesque ac felis tellus</li>
+        <li>Aenean sollicitudin imperdiet</li>
+        <li>Arcu duis placerat justo eu nunc</li>
+        <li>Interdum ultrices phasellus</li>
+        <li>Elit dolor porttitor id consectetur</li>
+        <li>Sit amet, posuere id magna</li>
+        </ul>
+    </div><div class="art-layout-cell" style="padding: 10px; width:33%" >
+        <h1>Winning Approaches</h1>
+        <p><img width="300" height="106" alt="" src="images/template-content/targetter_2.jpg" style="border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;" class=""></p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh. Cras elit nisl, rhoncus nec iaculis ultricies.Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu. Duis placerat justo eu nunc interdum tellus sit amet ultrices.</p>
+        <p><a href="#" class="art-button">More</a></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="2" category="2" title="Contact Us" alias="article-1" path="/contact-us" description="" keywords="">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.</p>
+        
+        <h3>Our Address</h3>
+        
+        <p>586 Main Ave, Building 42<br />
+        Main City, Country 12345-6789</p>
+        
+        <p>T: (555) 123 - 4567<br />
+        F: (555) 523 - 4567</p>
+        
+        <p>W: <a href="#">http://www.domain.com</a><br />
+        E: <a href="#">myemail@domain.com</a></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="Home" alias="ct-menu-item-1" path="/home" menutype="hmenu" type="single-article" article="1" showTitle="no" category="1" default="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="Home" alias="ct-menu-item-2" path="/home" menutype="vmenu" type="single-article" article="1" showTitle="no" category="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="Contact Us" alias="ct-menu-item-3" path="/contact-us" menutype="hmenu" type="single-article" article="2" showTitle="yes" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="Contact Us" alias="ct-menu-item-4" path="/contact-us" menutype="vmenu" type="single-article" article="2" showTitle="yes" category="1"/>
+        <menuitem id="5" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-5" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="6" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-6" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="Content / Horizontal Menu" showTitle="true" position="position-1" type="menu" menu="ct-horizontal-menu"/>
+        <module id="2" title="Footer1" showTitle="false" position="position-31" type="custom">
+            <![CDATA[
+        <p style="font: bold 18px 'Arial Narrow';color: #777777;">INFO</p>
+        <br>
+        <ul>
+        <li><a href="#">Welcome</a></li>
+        <li><a href="#">Schedule</a></li>
+        <li><a href="#">Team</a></li>
+        <li><a href="#">Management</a></li>
+        </ul>
+    ]]>
+        </module>
+        <module id="3" title="Footer2" showTitle="false" position="position-32" type="custom">
+            <![CDATA[
+        <p style="font: bold 18px 'Arial Narrow';color: #777777;">LOCATION</p>
+        <br>
+        <ul>
+        <li><a href="#">Map</a></li>
+        <li><a href="#">Address</a></li>
+        <li><a href="#">Contact Us</a></li>
+        </ul>
+    ]]>
+        </module>
+        <module id="4" title="Footer3" showTitle="false" position="position-33" type="custom">
+            <![CDATA[
+        <p style="font: bold 18px 'Arial Narrow';color: #777777;">CONNECTION</p>
+        <br>
+        <ul>
+        <li><a href="#"><img width="32" height="32" alt="" src="images/template/rss_32.png"></a>&nbsp;<a href="#"><img width="32" height="32" alt="" src="images/template/facebook_32.png"></a>&nbsp;<a href="#"><img width="32" height="32" alt="" src="images/template/twitter_32.png"></a></li>
+        </ul>
+    ]]>
+        </module>
+        <module id="5" title="Footer4" showTitle="false" position="position-34" type="custom">
+            <![CDATA[
+        <p style="text-align: right; padding-right: 20px"><br>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Copyright © 2011 All Rights Reserved.<br>
+        Icons by <a href="http://www.IconEden.com">IconEden</a></p>
+    ]]>
+        </module>
+    </modules>
+    <parameters>
+        <parameter id="1" name="siteTitle" value="Targeter"/>
+    </parameters>
+</data>
